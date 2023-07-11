@@ -97,3 +97,15 @@ nav a{
   text-align: center;
   font-size: 18px;
 }
+main{
+  max-width: 1140px;
+  margin: 0px auto;
+}
+.about-info-container{
+  display: flex;
+  justify-content: space-between;
+
+}
+.about-info{
+  text-align: center;
+}
